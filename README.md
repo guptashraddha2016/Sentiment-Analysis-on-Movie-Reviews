@@ -1,5 +1,5 @@
 # Sentiment-Analysis-on-Movie-Reviews
-Initial Commit
+ Sentiment Analysis on positive and negative reviews.
 
 # File Description
  1. Sentiment-Analysis-on-Movie-Reviews
