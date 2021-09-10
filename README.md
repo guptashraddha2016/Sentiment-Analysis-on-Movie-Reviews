@@ -2,7 +2,7 @@
  Sentiment Analysis on positive and negative reviews.
 
 # File Description
- 1. Sentiment-Analysis-on-Movie-Reviews
+ 1. Sentiment-Analysis-on-Movie-Reviews(Jupyter Notebook)
  2. train.csv(Dataset)
  3. Negative-words.txt(txt file of Negative words)
  4. Positive-words.txt(txt file of Positive words )
