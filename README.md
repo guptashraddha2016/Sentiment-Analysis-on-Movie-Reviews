@@ -12,4 +12,4 @@
 The purpose of this sentiment  analysis is to build a prediction model to predict whether a review on the movie is positive or negative.
 
 # Dataset
-Train.tsv is a dataset from Kaggle datasets
+Train.tsv is a dataset from Kaggle datasets.
